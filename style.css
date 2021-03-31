@@ -107,10 +107,6 @@ button {
   width: 318px;
 }
 
-.new-task-section__btn-add:hover {
-  color: #0fc57c;
-}
-
 /* Task list */
 
 .task-list-item {
@@ -137,10 +133,6 @@ button {
 
 .task-editor {
   width: 226px;
-}
-
-.btn-delete:hover {
-  color: #cf2323;
 }
 
 .delete-icon {
